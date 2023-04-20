@@ -1,0 +1,24 @@
+{
+  "name": "art",
+  "version": "1.0.0",
+  "description": "Online multiplayer game where players create and sell art.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhanmuftic/Art-Game.git"
+  },
+  "author": "ilhanmuftic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhanmuftic/Art-Game/issues"
+  },
+  "homepage": "https://github.com/ilhanmuftic/Art-Game#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "uuidv4": "^6.2.13"
+  }
+}
